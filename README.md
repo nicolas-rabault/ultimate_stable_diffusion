@@ -1,5 +1,5 @@
-# Ultimate stable diffusion notebook
-My custom notebook environment for stable diffusion
+# Beat stable diffusion
+My custom notebook environment for stable diffusion music animations
 
 ## Requirements
 A suitable [conda](https://conda.io/) environment named `usd` can be created
